@@ -1,0 +1,6 @@
+{
+  "name": "PulseGrid Session",
+  "description": "Mobile-friendly Ableton Live Session View inspired 4x4 clip-launching synthesizer workstation powered by Tone.js.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
